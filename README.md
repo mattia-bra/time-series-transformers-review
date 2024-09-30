@@ -95,8 +95,8 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 
 ### Transformers in Anomaly Detection
-* A Tiny Transformer-Based Anomaly Detection Framework for IoT Solutions，in *IEEE Open Journal of Signal Processing* 2023. [\[paper\]](https://doi.org/10.1109/OJSP.2023.3333756)
-* MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection，in *NeurIPS* 2023. [\[paper\]](https://openreview.net/forum?id=UFW67uduJd)
+* A Tiny Transformer-Based Anomaly Detection Framework for IoT Solutions in *IEEE Open Journal of Signal Processing* 2023. [\[paper\]](https://doi.org/10.1109/OJSP.2023.3333756)
+* MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection in *NeurIPS* 2023. [\[paper\]](https://openreview.net/forum?id=UFW67uduJd)
 * CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3534678.3539155) [\[official code\]](https://github.com/mmichaelzhang/CAT)
 * DCT-GAN: Dilated Convolutional Transformer-based GAN for Time Series Anomaly Detection, in *TKDE* 2022. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9626552)
 * Concept Drift Adaptation for Time Series Anomaly Detection via Transformer, in *Neural Processing Letters* 2022. [\[paper\]](https://link.springer.com/article/10.1007/s11063-022-11015-0)
